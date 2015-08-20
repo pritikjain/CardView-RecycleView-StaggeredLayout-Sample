@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CardView-RecycleView-StaggeredLayout-Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="linear">Linear Layout Manager</string>
+    <string name="grid">Grid Layout Manager</string>
+    <string name="staggered">Staggered Layout Manager</string>
+    <string name="title_activity_linear_layout_manager">LinearLayoutManagerActivity</string>
+    <string name="title_activity_grid_layout_manager">GridLayoutManagerActivity</string>
+    <string name="title_activity_staggered_grid_layout_manager">StaggeredGridLayoutManagerActivity
+    </string>
+</resources>
